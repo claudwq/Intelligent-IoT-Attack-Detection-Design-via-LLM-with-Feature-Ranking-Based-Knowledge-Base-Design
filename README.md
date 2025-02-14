@@ -19,7 +19,7 @@ To run the attack detection framework, follow these steps:
 bash
 Copy
 Edit
-git clone https://github.com/your-repo/IoT-LLM-Attack-Detection.git  
+git clone [https://github.com/your-repo/IoT-LLM-Attack-Detection.git  ](https://github.com/claudwq/Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design.git)
 cd IoT-LLM-Attack-Detection  
 pip install -r requirements.txt  
 python main.py  
