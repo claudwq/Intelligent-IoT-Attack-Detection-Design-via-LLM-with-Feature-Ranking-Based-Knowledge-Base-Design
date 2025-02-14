@@ -16,9 +16,7 @@ Repository Contents
 Installation & Usage
 To run the attack detection framework, follow these steps:
 
-bash
-Copy
-Edit
+
 git clone (https://github.com/claudwq/Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design.git)
 cd IoT-LLM-Attack-Detection  
 pip install -r requirements.txt  
@@ -32,8 +30,7 @@ Citation
 If you find this work useful, please consider citing our paper:
 
 bibtex
-Copy
-Edit
+
 @inproceedings{verma2025iot,
   title={Intelligent IoT Attack Detection Design via LLM with Feature Ranking-Based Knowledge Base Design},
   author={Verma, Satvik and Wang, Qun and Bethel, E. Wes},
